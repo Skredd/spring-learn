@@ -1,4 +1,5 @@
 rootProject.name = "learn"
 
-include("build-restful-web-service")
-include("consuming-restful-web-service")
+include("module-build-restful-web-service")
+include("module-consuming-restful-web-service")
+include("module-uploading-file")
